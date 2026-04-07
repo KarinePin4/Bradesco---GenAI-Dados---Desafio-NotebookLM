@@ -306,16 +306,12 @@ Não são “feitos com cádmio”, mas:
 ## 📘 Resumos rápidos (para estudo)
 ### 🌾 Agricultura de precisão
 Uso de tecnologia (GPS, sensores) para aplicar insumos no local certo.
-
-###🧪 Biofertilização
+### 🧪 Biofertilização
 Uso de microrganismos para nutrir plantas.
-
 ### 🔄 Rotação de culturas
 Alternar culturas (ex: soja → milho → feijão).
-
 ### 🌱 Plantio direto
 Não revolver o solo → mantém palha → conserva umidade.
-
 ### 🧪 Como fazer análise do solo
 1. Coletar amostras do terreno
 2. Enviar ao laboratório
@@ -323,12 +319,10 @@ Não revolver o solo → mantém palha → conserva umidade.
    * pH
    * nutrientes
    * matéria orgânica
-
 ### ⚖️ Adubação equilibrada
 * basear-se na análise do solo
 * aplicar N, P, K na medida certa
 * evitar excesso
-
 ### 🌍 Conservação do solo
 * evitar erosão
 * manter cobertura vegetal
@@ -340,12 +334,171 @@ Se quiser, posso transformar tudo isso em **mapa mental**, **resumo para prova**
 ---
 
 ## Prompt 04
+Rhizobium qual relação com bateria diazotrofica 
+
 ## Resposta 04
+A relação é direta — o **Rhizobium** é um **tipo de bactéria diazotrófica**.
+
+## 🌱 O que são bactérias diazotróficas?
+São bactérias capazes de realizar a **Fixação Biológica de Nitrogênio (FBN)**, ou seja:
+* captam nitrogênio do ar (N₂)
+* transformam em formas utilizáveis pelas plantas
+
+## 🧪 E o que é o Rhizobium?
+O *Rhizobium*:
+* vive no solo
+* se associa com **plantas leguminosas** (feijão, soja, ervilha)
+👉 Ele entra na raiz e forma estruturas chamadas:
+* nódulos radiculares
+
+## 🤝 Relação entre Rhizobium e a planta
+É uma **simbiose (troca de benefícios)**:
+### 🌿 Planta fornece:
+* açúcar (energia)
+### 🦠 Bactéria fornece:
+* nitrogênio fixado
+
+## 🌾 Por que ele é considerado diazotrófico?
+Porque o *Rhizobium*:
+✔ fixa nitrogênio do ar
+✔ transforma em amônia
+✔ alimenta a planta
+👉 Ou seja: ele é um dos principais exemplos de bactéria diazotrófica **simbiótica**.
+
+## 🔍 Comparação rápida
+| Tipo de bactéria | Exemplo        | Relação com planta   |
+| ---------------- | -------------- | -------------------- |
+| Simbiótica       | *Rhizobium*    | vive dentro da raiz  |
+| Associativa      | *Azospirillum* | vive próximo da raiz |
+| Livre            | *Azotobacter*  | vive no solo         |
+
+## 💡 Resumo simples
+* *Rhizobium* = bactéria diazotrófica
+* Atua em leguminosas
+* Forma nódulos
+* Faz FBN
+* Reduz uso de fertilizantes
+
+Se quiser, posso te explicar **como o nódulo se forma passo a passo** (cai bastante em prova) 👍
 
 ---
 
 ## Prompt 05
+sobre o feijão em forma pratica a rotação como funcionaria 
+eu faço minha plantação de alface 
+depois de colhido 
+planto o feijão deixo crescer ate um determinado tempo e tiro as raizes do solo mas deixo tudo la jogado na terra ate misturo bem e posso fazer uma nova plantação isso faria com que o que for plantado absorva nitrogênio ?
+pensando em rotação de solo
+
+em uma formula química como ocorre a tranformacao de n2 do ar em nh3 explique mais sobre a ensila nitrogenase
+
+controle biologico em solo e muito importante 
+
+de um exemplo de agricultura sustentável 
+
+e excesso de trita esta relacionado diretamente com a fertilização para uso do nitrogênio no solo 
+
+se eu plantar feijão para vender como adubação verde funcionário como baixo medio ou alto absorção para quem comprar 
+de outros exemplos de adubação verde
+
 ## Resposta 05
+Vou responder de forma prática e aplicada ao campo 🌱
+
+## 🌾 Rotação com feijão (na prática)
+Sua ideia está **quase certa**, só precisa de um ajuste importante:
+### ❌ O que você sugeriu:
+* plantar feijão
+* arrancar (tirar raiz)
+* misturar no solo
+👉 Isso **reduz o benefício**, porque:
+* os **nódulos (onde está o nitrogênio)** ficam nas raízes
+* ao arrancar, você perde parte do nitrogênio
+### ✅ Forma correta (adubação verde com feijão)
+1. Planta o feijão
+2. Deixa crescer até:
+   * início da floração (melhor fase)
+3. **Corta a planta (não arranca)**
+4. Deixa:
+   * sobre o solo (cobertura) OU
+   * incorpora levemente
+👉 Depois de alguns dias/semanas:
+* planta alface ou outra cultura
+✔️ Sim: isso **aumenta o nitrogênio disponível** para a próxima cultura.
+
+## 🧪 Transformação do N₂ em NH₃
+A reação simplificada da **Fixação Biológica de Nitrogênio é:
+[
+N_2 + 8H^+ + 8e^- + energia → 2NH_3 + H_2
+]
+
+## 🔬 Enzima nitrogenase
+A **nitrogenase** é a enzima que faz tudo isso acontecer:
+### Características:
+* presente em bactérias diazotróficas
+* muito sensível ao oxigênio
+* consome muita energia (ATP)
+### 🔁 Como funciona:
+1. quebra a ligação forte do N₂
+2. adiciona hidrogênios
+3. forma amônia (NH₃)
+👉 A planta depois transforma NH₃ em aminoácidos.
+
+## 🦠 Controle biológico no solo
+Sim, é essencial.
+### Exemplo:
+* uso de bactérias e fungos para:
+  * controlar pragas
+  * melhorar o solo
+👉 Exemplo prático:
+* *Bacillus* contra doenças de raiz
+
+## 🌍 Exemplo de agricultura sustentável
+Um sistema simples:
+* plantio direto
+* rotação (milho + feijão)
+* uso de FBN
+* adubação orgânica
+👉 Resultado:
+* menos química
+* mais produtividade no longo prazo
+
+## ⚠️ Excesso de nitrato (acho que você quis dizer isso)
+Sim, está diretamente ligado à fertilização nitrogenada.
+### Quando ocorre:
+* uso excessivo de adubo nitrogenado
+### Problemas:
+* lixiviação (vai para água)
+* acúmulo em plantas
+* impacto ambiental
+
+## 🌱 Feijão como adubação verde (valor agronômico)
+Depende do manejo, mas geralmente:
+👉 **Médio a alto potencial**
+### Por quê?
+* fixa nitrogênio
+* produz biomassa razoável
+Mas não é o melhor de todos.
+
+## 🌿 Outros exemplos de adubação verde
+### 🌱 Alta eficiência:
+* crotalária
+* mucuna
+* feijão-de-porco
+### 🌾 Para cobertura:
+* milheto
+* aveia
+### 🌿 Mistos (ótimos):
+* consórcio leguminosa + gramínea
+
+## 💡 Resumo direto
+✔ Feijão ajuda sim na rotação
+✔ Não arrancar a raiz
+✔ Nitrogênio vem da FBN
+✔ Nitrogenase faz a transformação
+✔ Reduz fertilizantes químicos
+✔ Adubação verde melhora solo e produtividade
+
+Se quiser, posso montar um **passo a passo completo de rotação alface + feijão com calendário** (bem prático mesmo) 👍
 
 ---
 
