@@ -116,7 +116,6 @@ Alguns produtos permitidos no Brasil são restritos fora por riscos ambientais o
 ### Exemplos:
 * fertilizantes com metais pesados (cádmio)
 * excesso de nitratos
-
 ### 🚫 Motivos da proibição:
 * contaminação do solo e água
 * riscos à saúde humana
@@ -131,7 +130,6 @@ Alguns produtos permitidos no Brasil são restritos fora por riscos ambientais o
 * uso de biofertilizantes
 * rotação de culturas
 * plantio direto
-
 ### 🌍 Conceitos importantes:
 * análise de solo antes da adubação
 * adubação equilibrada
@@ -143,7 +141,6 @@ Essa área envolve:
 * composição (argila, areia, matéria orgânica)
 * pH
 * fertilidade
-
 ### 🌿 Planta:
 * nutrientes essenciais (N, P, K, Ca, Mg, S)
 * micronutrientes (Fe, Zn, B)
@@ -160,11 +157,185 @@ Essa área envolve:
 
 Se quiser, posso transformar isso em **resumo para prova**, **mapa mental** ou até **explicação mais simples tipo ensino médio** 👍
 
-
 ---
 
 ## Prompt 03
+pensando em uso agrícola e bioconsumo na cultura brasileira plantar feijão próximo a uma planta para que ela absorva mais nitrogênio esta correto. 
+em quais plantas essa cultura pode ser usada 
+tem ave com FBN?
+explique um processo natural feito por bactérias
+como isso reduz o custo no produção 
+como diminui o impacto ambiental 
+da para ser usado em alimentos que são mais usados na comida no prato do brasileiro
+
+embrapa
+que tipo de pesquisa agrícola e feita nela 
+explique mais sobre a espansao da fbn
+e outros meios atuais que reduz fertilizantes químicos 
+
+pra que serve os fertilizantes com metais pesados cádmio? e em quais alimentos ele e usado distribuídos no brasil 
+excesso de nitrato para que serve e em quais alimentos e usadados que e distribuído no brasill 
+qual meio de fertilização que que seria uma alternativa para o não uso desses dois métodos 
+
+resuma o que e 
+agricultura de precisão 
+uso de biofertilizacao 
+matacão de culturas 
+plantio direto 
+como fazer uma analise do solo para adução 
+como fazer uma adubação equilibrada 
+e como podemos conservar o solo?
+
 ## Resposta 03
+Vou te responder por partes, conectando com a prática agrícola brasileira 🇧🇷🌱
+
+## 🌱 Feijão ajuda outras plantas com nitrogênio?
+Sim — **a ideia está correta, mas com um detalhe importante**.
+O feijão (leguminosa) faz simbiose com bactérias (*Rhizobium*) que realizam a **Fixação Biológica de Nitrogênio (FBN)**.
+👉 Porém:
+* O nitrogênio fica **principalmente no próprio feijão**
+* Outras plantas aproveitam melhor **depois**, quando:
+  * restos da planta se decompõem
+  * ou em rotação de culturas
+✔️ Então funciona melhor como:
+* rotação (plantar depois)
+* consórcio bem planejado
+
+## 🌾 Em quais plantas isso funciona melhor?
+Principalmente com **gramíneas**, como:
+* milho
+* arroz
+* trigo
+* capim (pastagens)
+👉 Exemplo prático:
+* feijão + milho (consórcio tradicional no Brasil)
+
+## 🐦 Existe FBN em aves?
+Não.
+A FBN ocorre em:
+* bactérias
+* algumas plantas
+Aves **não fixam nitrogênio**. Elas participam indiretamente:
+* esterco → rico em nutrientes → fertiliza o solo
+
+## 🧪 Processo natural das bactérias (explicação simples)
+As bactérias pegam:
+* nitrogênio do ar (N₂)
+E transformam em:
+* amônia (NH₃), que vira nutriente para plantas
+👉 Isso é feito por uma enzima chamada nitrogenase.
+
+## 💰 Como isso reduz custo?
+Menos necessidade de:
+* ureia
+* nitrato
+* adubos químicos caro
+👉 Resultado:
+* menor gasto com fertilizantes
+* menor dependência de importação
+
+## 🌍 Como reduz impacto ambiental?
+* menos poluição da água (menos nitrato)
+* menos emissão de gases
+* melhora a saúde do solo
+
+## 🍛 Pode ser usado na comida do brasileiro?
+Sim, totalmente.
+A FBN já é usada em culturas base do Brasil:
+* soja
+* feijão
+* milho
+* arroz
+👉 Ou seja: está presente no prato do brasileiro diariamente.
+
+## 🏢 Sobre a Embrapa
+### 🔬 O que ela faz:
+* desenvolvimento de sementes melhoradas
+* pesquisa em solos
+* controle biológico de pragas
+* biofertilizantes
+* agricultura sustentável
+
+## 🌿 Expansão da FBN
+Antes:
+* usada quase só na soja
+Hoje:
+* aplicada em milho e pastagens
+* uso de inoculantes com *Azospirillum*
+👉 Tendência:
+* substituir parte dos fertilizantes nitrogenados
+
+## 🌱 Outros meios para reduzir fertilizantes químicos
+* biofertilizantes
+* compostagem
+* rotação de culturas
+* uso de microrganismos
+* adubação verde (plantas como feijão, crotalária)
+
+## ⚠️ Fertilizantes com cádmio
+### 🧪 Para que servem?
+Não são “feitos com cádmio”, mas:
+* o cádmio aparece como **contaminante** em fertilizantes fosfatados
+### 🚫 Problema:
+* tóxico
+* acumula no solo e nos alimentos
+### 🍽️ Onde pode aparecer:
+* arroz
+* trigo
+* batata
+👉 Países restringem por risco à saúde.
+
+## ⚠️ Excesso de nitrato
+### 🧪 Para que serve?
+* fonte rápida de nitrogênio para plantas
+### 🚫 Problema:
+* contamina água
+* pode causar problemas de saúde
+### 🍽️ Comum em:
+* alface
+* espinafre
+* rúcula
+
+## 🌱 Alternativas a esses fertilizantes
+* FBN (bactérias)
+* esterco animal
+* compostagem
+* biofertilizantes
+* adubação verde
+
+## 📘 Resumos rápidos (para estudo)
+### 🌾 Agricultura de precisão
+Uso de tecnologia (GPS, sensores) para aplicar insumos no local certo.
+
+###🧪 Biofertilização
+Uso de microrganismos para nutrir plantas.
+
+### 🔄 Rotação de culturas
+Alternar culturas (ex: soja → milho → feijão).
+
+### 🌱 Plantio direto
+Não revolver o solo → mantém palha → conserva umidade.
+
+### 🧪 Como fazer análise do solo
+1. Coletar amostras do terreno
+2. Enviar ao laboratório
+3. Avaliar:
+   * pH
+   * nutrientes
+   * matéria orgânica
+
+### ⚖️ Adubação equilibrada
+* basear-se na análise do solo
+* aplicar N, P, K na medida certa
+* evitar excesso
+
+### 🌍 Conservação do solo
+* evitar erosão
+* manter cobertura vegetal
+* usar curvas de nível
+* evitar desmatamento
+
+Se quiser, posso transformar tudo isso em **mapa mental**, **resumo para prova** ou até **questões de vestibular com resposta** 📚
 
 ---
 
