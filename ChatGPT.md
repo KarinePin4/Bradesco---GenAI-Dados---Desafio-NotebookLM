@@ -503,7 +503,97 @@ Se quiser, posso montar um **passo a passo completo de rotação alface + feijã
 ---
 
 ## Prompt 06
+de temas que possa ser apresentado em um tcc de agronomia que visa o impacto que o cultivo domestico tem dentro de uma família pai mãe e filha
+
 ## Resposta 06
+Ótimo tema — dá pra construir um TCC muito rico, porque junta **agronomia + social + sustentabilidade** 🌱👨‍👩‍👧
+Vou te sugerir ideias organizadas, com foco no impacto do cultivo doméstico em uma família.
+
+## 🎓 Temas de TCC (com foco em cultivo doméstico familiar)
+### 🌱 1. Segurança alimentar
+**Tema:**
+👉 *Impacto do cultivo doméstico na segurança alimentar de famílias brasileiras*
+**O que estudar:**
+* acesso a alimentos frescos
+* redução da insegurança alimentar
+* qualidade nutricional
+### 🍅 2. Qualidade da alimentação
+**Tema:**
+👉 *Influência da horta doméstica na alimentação de uma família (pai, mãe e filha)*
+**Foco:**
+* consumo de verduras
+* mudança de hábitos alimentares
+* redução de ultraprocessados
+### 🌿 3. Sustentabilidade urbana
+**Tema:**
+👉 *Hortas domésticas como prática de agricultura sustentável em ambientes urbanos*
+**Pode incluir:**
+* compostagem
+* reaproveitamento de resíduos
+* uso racional da água
+### 💰 4. Economia familiar
+**Tema:**
+👉 *Redução de custos alimentares por meio do cultivo doméstico*
+**Analisar:**
+* quanto a família economiza
+* custo vs produção
+### 👨‍👩‍👧 5. Impacto social e educacional
+**Tema:**
+👉 *O papel da horta doméstica na educação ambiental infantil*
+**No caso da filha:**
+* aprendizado sobre natureza
+* responsabilidade
+* alimentação saudável
+### 🧠 6. Saúde mental e bem-estar
+**Tema:**
+👉 *Benefícios psicológicos do cultivo doméstico em famílias*
+**Estudar:**
+* redução do estresse
+* convivência familiar
+* contato com a natureza
+### 🌾 7. Uso de técnicas agronômicas em pequena escala
+**Tema:**
+👉 *Aplicação de práticas de agricultura sustentável em hortas domésticas*
+**Incluir:**
+* adubação orgânica
+* controle biológico
+* rotação de culturas
+### 🧪 8. Fertilidade do solo em hortas caseiras
+**Tema:**
+👉 *Avaliação da fertilidade do solo em sistemas de cultivo doméstico*
+**Pode analisar:**
+* uso de compostagem
+* presença de nutrientes
+* melhoria ao longo do tempo
+### ♻️ 9. Compostagem doméstica
+**Tema:**
+👉 *Transformação de resíduos orgânicos em fertilizantes para hortas familiares*
+### 🌍 10. Produção agroecológica
+**Tema:**
+👉 *Horta doméstica como modelo de produção agroecológica familiar*
+
+## 💡 Ideia de título completo (exemplo)
+👉 *“Impactos do cultivo doméstico na alimentação, economia e sustentabilidade em uma família brasileira”*
+
+## 📊 Metodologia (o que você pode fazer)
+* estudo de caso (uma família)
+* entrevistas (pai, mãe e filha)
+* análise da produção da horta
+* comparação antes/depois
+* registro fotográfico
+
+## 🔎 Diferencial (para deixar seu TCC mais forte)
+Você pode incluir:
+* uso de **FBN (fixação biológica de nitrogênio)**
+* adubação verde
+* análise simples de solo
+* dados reais de produção
+Se quiser, posso montar:
+✔ problema de pesquisa
+✔ objetivos geral e específicos
+✔ hipótese
+✔ estrutura completa do TCC
+Só me fala 👍
 
 ---
 
