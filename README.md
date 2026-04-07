@@ -75,12 +75,3 @@ Durante o projeto, serão coletados dados como:
 ## 🚀 Visão de longo prazo
 
 Este projeto poderá evoluir para um estudo acadêmico mais aprofundado durante a graduação, consolidando-se como um TCC voltado à agricultura sustentável, segurança alimentar e produção doméstica no Brasil.
-
----
-
-Se quiser, posso:
-✔ deixar mais técnico (nível universitário)
-✔ ou mais simples (tipo portfólio pessoal)
-✔ ou até montar versão em inglês para GitHub
-
-Só falar 👍
