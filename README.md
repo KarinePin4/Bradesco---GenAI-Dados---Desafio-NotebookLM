@@ -1,9 +1,5 @@
 # Bradesco---GenAI-Dados---Desafio-NotebookLM
 
-Aqui está um texto no estilo **README de GitHub**, claro, direto e bem organizado 👇
-
----
-
 # 🌱 Projeto: Cultivo Doméstico e Agronomia Aplicada
 
 ## 📌 Descrição
