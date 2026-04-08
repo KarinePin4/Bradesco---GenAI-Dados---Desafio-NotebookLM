@@ -944,6 +944,86 @@ Só falar 👍
 traga fontes para uma pesquisa inicial 
 
 ## Resposta 10
+Perfeito — vou te passar **fontes confiáveis e usadas em Agronomia no Brasil**, organizadas por tema do seu TCC. Isso já serve como base para sua **revisão bibliográfica inicial** 📚🌱
+
+## 🌱 📚 1. Ciência do solo e fertilidade
+#### 📖 Livros clássicos:
+* **Manual de Adubação e Calagem para o Estado de São Paulo**
+  👉 Referência principal sobre adubação no Brasil
+* **Fertilidade do Solo**
+  👉 Base teórica sobre nutrientes e solo
+
+## 🌿 📘 2. Nutrição de plantas
+* **Nutrição Mineral de Plantas**
+  👉 Um dos livros mais importantes da área
+* **Embrapa (publicações)**
+  👉 [https://www.embrapa.br](https://www.embrapa.br)
+  👉 Procure por: “nutrição de plantas” e “fertilidade do solo”
+
+## 🦠 📄 3. Fixação biológica de nitrogênio (FBN)
+* Artigos da Embrapa sobre FBN
+* Pesquisas de **Johanna Döbereiner**
+#### Exemplos de busca:
+* “FBN em gramíneas Embrapa”
+* “Azospirillum milho Brasil”
+
+## 🌾 📗 4. Agroecologia e agricultura sustentável
+* **Associação Brasileira de Agroecologia**
+  👉 [https://aba-agroecologia.org.br](https://aba-agroecologia.org.br)
+* Revista Brasileira de Agroecologia
+
+## 🍅 📊 5. Hortas domésticas e agricultura urbana
+* Portal de periódicos da **Universidade Estadual de Campinas**
+  👉 [https://periodicos.sbu.unicamp.br](https://periodicos.sbu.unicamp.br)
+Buscar por:
+* “horta urbana”
+* “segurança alimentar”
+
+## 💰 📈 6. Economia rural e agricultura familiar
+* **Ministério da Agricultura e Pecuária**
+  👉 [https://www.gov.br/agricultura](https://www.gov.br/agricultura)
+* **Instituto Brasileiro de Geografia e Estatística**
+  👉 dados sobre agricultura familiar
+
+## ♻️ 🌿 7. Compostagem e biofertilizantes
+* Publicações da Embrapa
+  Buscar:
+* “compostagem doméstica Embrapa”
+* “biofertilizantes agricultura”
+
+## 🐛 🦠 8. Controle biológico
+* **Embrapa** (controle biológico)
+* Revista Ciência Rural
+
+## 🌍 📘 9. Segurança alimentar
+* **Organização das Nações Unidas para a Alimentação e Agricultura**
+  👉 [https://www.fao.org](https://www.fao.org)
+* Artigos sobre agricultura urbana e alimentação
+## 📊 🔬 10. Metodologia científica (para seu TCC)
+* **Metodologia Científica**
+  👉 Muito usado em TCC
+* **Fundamentos de Metodologia Científica**
+
+## 🔍 💡 Como pesquisar (dica prática)
+Use no Google Acadêmico:
+👉 [https://scholar.google.com.br](https://scholar.google.com.br)
+Pesquise termos como:
+* “horta doméstica agricultura urbana Brasil”
+* “fixação biológica de nitrogênio hortaliças”
+* “compostagem doméstica produção agrícola”
+
+## 🎯 Dica importante
+Para um TCC forte, combine:
+* 📚 livros (base teórica)
+* 📄 artigos (dados atualizados)
+* 🏢 instituições (Embrapa, FAO, IBGE)
+Se quiser, posso:
+✔ montar sua **revisão bibliográfica já escrita**
+✔ separar **artigos em PDF reais**
+✔ ou organizar tudo em **formato ABNT**
+
+Só falar 👍
+
 
 ---
 
