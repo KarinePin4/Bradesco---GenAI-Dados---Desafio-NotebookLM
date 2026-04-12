@@ -1,4 +1,4 @@
-# Bradesco---GenAI-Dados---Desafio-NotebookLM
+# Bradesco-GenAI-Dados-Desafio-NotebookLM
 
 # 🌱 Projeto: Cultivo Doméstico e Agronomia Aplicada
 
